@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Collective & Open Research in Climate Science",
+    "section": "",
+    "text": "Preface\n\n\nCollective & Open Research in climate science\n\nProject\nThe idea is to facilitate the creation of an environment (a working group or a community, eventually) where researchers, students, citizen scientists can collaborate on projects, research projects, articles or just share their work based on open science principles. There are examples of open research environments in the scientific community, in particular in the machine learning field. Examples are mlcollective, Machine Learning Tokyo and Neuromatch Academy. Those communities run by volunteers created a friendly environment and study groups for machine learning practitioners and also curricula to introduce students to data science. In e.g., the mlcollective effort led to the publication of many projects.\nEventually, these examples could be used to create or simply design (white paper/report) a similar project in other research areas.\n\n\nProblem\nIt’s hard for newcomers, especially students, to get involved in research. That’s why I would like to create a collaborative environment/guidelines/frameworks in the climate sciences field.\nThe project aims to create an infrastructure that can lead to the creation of an open research collective. The problems to solve are:\n\nUnderstanding the climate change scenario (other open science projects, initiatives, papers…)\nHow to create a friendly environment for researchers, students and newcomers (Tools and instruments)\nHow to eventually manage research data and publish results (on diamond open access?)\nEthical problems in the climate sciences ladscape\n\n\n\nAchievements\nLearn how to work in open science, and communicate findings to a broader audience. The idea is to create a white paper or final report about the status of open research and open groups in climate change and health. Even if at the end of the study period we don’t have a working collective (very likely), a white paper/report could lead to the creation of one in the future and could be the initial framework for other groups."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
