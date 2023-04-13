@@ -15,11 +15,11 @@ book:
       left: "Collective and Open Research in Climate" 
       right: 
         - icon: github
-          href: https://github.com/varlottaang/collective-and-open-research-in-climate
+          href: https://github.com/varlottaang/collective-research-climate
 
   page-navigation: true
   search: true
-  repo-url: https://github.com/varlottaang/collective-and-open-research-in-climate
+  repo-url: https://github.com/varlottaang/collective-research-climate
   repo-actions: [edit, issue]
   sharing: [facebook, twitter]
 
